@@ -1,9 +1,12 @@
 {
   "name": "webgazer-v2",
-  "version": "3.0.0",
+  "version": "3.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/adapterdigital/WebGazer.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@adapterdigital"
   },
   "license": "GPL-3.0-or-later",
   "main": "dist/webgazer.js",
